@@ -14,10 +14,6 @@ module.exports = {
         filename:'bundled.js',
         path: path.resolve(__dirname, 'app')
     },
-<<<<<<< HEAD
-    mode:'development',
-    watch: true,
-=======
     devServer:{
         before:function(app,server){
             server._watch('./app/**/*.html````````````````````````');
@@ -28,7 +24,6 @@ module.exports = {
         host:'0.0.0.0'
     },
     mode:'development',
->>>>>>> 9c6f6e2568410eb3a18ba1bceb2f68c13275eb61
     module:{
         rules:[
             {

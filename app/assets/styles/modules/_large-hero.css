@@ -12,22 +12,13 @@
     
     &__title{
         font-weight:300;
-<<<<<<< HEAD
         color:#2f5572;
         font-size: 4.8rem;
-=======
-        color:$mainBlue;
-        font-size: 4.8rem;
-        margin: 0;
->>>>>>> 9c6f6e2568410eb3a18ba1bceb2f68c13275eb61
+        background-color: red;
     }
     
     &__subtitle{
         font-weight:300;
-<<<<<<< HEAD
-        color:#2f5572;
-        font-size: 2.9rem;
-=======
         color:$mainBlue;
         font-size: 2.9rem;
         margin: 0;
@@ -41,7 +32,6 @@
         max-width: 30rem;
         margin-left: auto;
         margin-right: auto;
->>>>>>> 9c6f6e2568410eb3a18ba1bceb2f68c13275eb61
     }
 }
 
